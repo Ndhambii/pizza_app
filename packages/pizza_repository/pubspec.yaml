@@ -1,4 +1,4 @@
-name: user_repository
+name: pizza_repository
 description: The repo that handles pizzas
 publish_to: 'none'
 version: 0.0.1
