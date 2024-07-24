@@ -62,6 +62,12 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "cupertino_icons",
+      "rootUri": "file:///C:/Users/hp/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.8",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
       "name": "equatable",
       "rootUri": "file:///C:/Users/hp/AppData/Local/Pub/Cache/hosted/pub.dev/equatable-2.0.5",
       "packageUri": "lib/",
@@ -290,13 +296,13 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "pizza_app",
+      "name": "pizza_app_new",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     }
   ],
-  "generated": "2024-07-24T08:06:24.747996Z",
+  "generated": "2024-07-22T20:45:48.409066Z",
   "generator": "pub",
   "generatorVersion": "3.4.0",
   "flutterRoot": "file:///C:/src/flutter",

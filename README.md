@@ -1,6 +1,6 @@
 # pizza_app
 
-A pizza app application using flutter and firebase
+A new Flutter project.
 
 ## Getting Started
 
