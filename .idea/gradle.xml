@@ -18,6 +18,7 @@
         <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
         <option name="modules">
           <set>
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_core-2.32.0/android" />
             <option value="$USER_HOME$/Android/flutter/packages/flutter_tools/gradle" />
             <option value="$PROJECT_DIR$/android" />
             <option value="$PROJECT_DIR$/android/app" />
