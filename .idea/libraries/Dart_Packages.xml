@@ -124,6 +124,7 @@
         <entry key="firebase_core_web">
           <value>
             <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_core_web-2.17.3/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_core_web-2.17.2/lib" />
             </list>
           </value>
@@ -138,8 +139,8 @@
         <entry key="flutter_lints">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_lints-2.0.3/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_lints-3.0.2/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_lints-2.0.3/lib" />
             </list>
           </value>
         </entry>
@@ -188,8 +189,8 @@
         <entry key="lints">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/lints-2.1.1/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/lints-3.0.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/lints-2.1.1/lib" />
             </list>
           </value>
         </entry>
@@ -333,6 +334,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_core-2.32.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_core_platform_interface-5.1.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_core_web-2.17.2/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_core_web-2.17.3/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_lints-2.0.3/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_lints-3.0.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/http_parser-4.0.2/lib" />
