@@ -1,7 +1,9 @@
 import 'dart:developer';
 import 'package:bloc/bloc.dart';
 
+
 class SimpleBlocObserver extends BlocObserver {
+
   @override
   void onCreate(BlocBase bloc) {
     super.onCreate(bloc);
@@ -24,7 +26,6 @@ class SimpleBlocObserver extends BlocObserver {
   void onTransition(Bloc bloc, Transition transition) {
     super.onTransition(bloc, transition);
     log('onTransition -- bloc: ${bloc.runtimeType}, transition: $transition');
-
   }
 
   @override
@@ -38,4 +39,5 @@ class SimpleBlocObserver extends BlocObserver {
     super.onClose(bloc);
     log('onClose -- bloc: ${bloc.runtimeType}');
   }
+
 }
